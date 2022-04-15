@@ -1,0 +1,1 @@
+<img class="brand-title" width="100%"  src="<?= URLROOT ?>/images/pageAcc.png" alt="">
